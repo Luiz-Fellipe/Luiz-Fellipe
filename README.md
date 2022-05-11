@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hi, I'm Luiz Fellipe! 👋
+<!-- <img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="200" height="200" style="border-radius:50%" > -->
+<p>
+<em>Front-end Developer at <a href="https://xsensors.ai/">X-Sensors</a>
+</em></p>
 
-<!--
-**Luiz-Fellipe/Luiz-Fellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: luiz-fellipe-da-silva](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fellipe-da-silva-a5936b19a/)
+[![GitHub Luiz-Fellipe](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luiz-Fellipe)
 
-Here are some ideas to get you started:
+### A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+```javascript
+const aboutMe = {
+  name: "Luiz Fellipe",
+  age: 22,
+  nationality: "Brazilian",
+  role: "Front-End Developer",
+  techs: ["Javascript", "Typescript", "Html", "CSS", "Node.Js", "React"],
+  tools: [
+    "Redux",
+    "React-Query",
+    "Next.Js",
+    "Styled Components",
+    "Stitches and Radix UI",
+    "StoryBook",
+    "Framer Motion",
+  ],
+  learning: ["English", "Design System Pattern", "Tests", "Serverless", "AWS"],
+};
+
+console.log(aboutMe);
+```
+
+---
