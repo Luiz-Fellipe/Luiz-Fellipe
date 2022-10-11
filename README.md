@@ -4,7 +4,7 @@
 </h2>
 
 <p>
-Front-end Developer at <a href="https://xsensors.ai/">X-Sensors</a>
+Front-end Developer at <a href="https://aindauniverse.com/">Ainda Universe</a>
 </p>
 
 
@@ -19,7 +19,7 @@ Front-end Developer at <a href="https://xsensors.ai/">X-Sensors</a>
 ```javascript
 const aboutMe = {
   name: "Luiz Fellipe",
-  age: 22,
+  age: 23,
   nationality: "Brazilian",
   role: "Front-End Developer",
   techs: ["Javascript", "Typescript", "Html", "CSS", "Node.Js", "React"],
