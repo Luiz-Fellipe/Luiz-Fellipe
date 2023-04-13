@@ -1,5 +1,4 @@
 <h2> Hi, I'm Luiz Fellipe! 👋
-<img align='right' src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="200" height="200" style="border-radius:50%" >
 
 </h2>
 
