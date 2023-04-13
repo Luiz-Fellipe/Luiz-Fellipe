@@ -31,7 +31,7 @@ const aboutMe = {
     "StoryBook",
     "Framer Motion",
   ],
-  learning: ["English", "Design System Pattern", "Tests", "Serverless", "AWS"],
+  learning: ["English", "Design System Pattern", "Tests"],
 };
 
 console.log(aboutMe);
