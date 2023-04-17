@@ -30,6 +30,7 @@ const aboutMe = {
     "Stitches and Radix UI",
     "StoryBook",
     "Framer Motion",
+    "Micro Front-end"
   ],
   learning: ["English", "Design System Pattern", "Tests"],
 };
