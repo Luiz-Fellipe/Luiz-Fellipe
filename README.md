@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-Front-end Developer at <a href="https://aindauniverse.com/">Ainda Universe</a>
+Front-end Developer
 </p>
 
 
