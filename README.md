@@ -26,27 +26,28 @@ Front-end Developer
 
 <br>
 
-```javascript
-const aboutMe = {
-  name: "Luiz Fellipe",
-  age: 23,
-  nationality: "Brazilian",
-  role: "Front-End Developer",
-  techs: ["Javascript", "Typescript", "Html", "CSS", "Node.Js", "React"],
-  tools: [
-    "Redux",
-    "React-Query",
-    "Next.Js",
-    "Styled Components",
-    "Stitches and Radix UI",
-    "StoryBook",
-    "Framer Motion",
-    "Micro Front-end"
-  ],
-  learning: ["English", "Design System Pattern", "Tests"],
-};
+With over 5 years in web development, I previously worked in many projects using advanced development techniques. Today, I harness this expertise to provide the best experience on a clean energy ecosystem platform with over 21,000 users.
 
-console.log(aboutMe);
-```
+Here's what I've been up to:
 
----
+🍃 Maintaining and improving a platform for the clean energy ecosystem, Developing responsive user interfaces using advanced techniques and tecnologies, Like React.js, Next.js and Node.js.
+
+🧑‍🎓 Developed an e-learning platform, Dealing with video player integration, page load optimization and real time progress tracking.
+
+🖼️ Developed a web-based design platform similar to Canva, implementing drag-and-drop functionality, real-time canvas manipulation, and advanced image editing features.
+
+🎨Developed a design system, implementing reusable UI components, design tokens, and accessibility guidelines while creating comprehensive documentation for cross-team collaboration.
+
+My skillset includes:
+
+>Graphics: Nivo, React Apex, React Diagrams, React Flow.
+>Styling and Animation: Styled Components, Stitches, Framer Motion, Tailwind, Material UI, and Radix UI.
+>Frameworks: NextJS.
+>Internationalization: React i18n.
+>Forms: Unform, React Hook Form, Yup, and Zod.
+>Editing: TipTap, React DND.
+>Utilities: Axios, React Query, and Lodash.
+>State Management: Redux, Redux Toolkit, Zustand, and Context API.
+>Testing: Cypress, Jest, and React Testing Library.
+>Processing: GPUJS, TensorFlow, FabricJS, and ElkJS.
+> API Rest: Node.js, Fastify, Express and Prisma.
