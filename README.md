@@ -7,11 +7,6 @@ Front-end Developer
 </p>
 
 
-<br>
-<div  style="display: inline_block;">
-<img  width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-Fellipe&show_icons=true&theme=tokyonight"/>
-<img height="150em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luiz-Fellipe&layout=compact&theme=tokyonight"/>
-</div>
 
 <br>
 
